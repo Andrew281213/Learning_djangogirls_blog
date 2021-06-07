@@ -1,0 +1,46 @@
+body .top-menu :hover, body .top-menu :visited {
+  color: #ffffff;
+  float: right;
+  font-size: 26pt;
+  margin-right: 20px;
+}
+body .page-header {
+  background-color: #ff9400;
+  margin-top: 0;
+  padding: 20px 20px 20px 40px;
+}
+body .page-header h1, body .page-header h1 a, body .page-header h1 a:visited, body .page-header h1 a:active {
+  color: #fff;
+  font-size: 36pt;
+  text-decoration: none;
+}
+body .content {
+  margin-left: 40px;
+}
+body h1, body h2, body h3, body h4 {
+  font-family: "Lobster", cursive;
+}
+body .date {
+  color: #828282;
+}
+body .save {
+  float: right;
+}
+body .post-form textarea, body .post-form input {
+  width: 100%;
+}
+body .post {
+  margin-bottom: 70px;
+}
+body .post h1 a, body .post h1 a:visited {
+  color: #000;
+}
+body h1 {
+  color: #FCA205;
+  font-family: "Lobster";
+}
+body h1 a {
+  color: #FCA205;
+}
+
+/*# sourceMappingURL=blog.css.map */
