@@ -1,8 +1,5 @@
 body .top-menu :hover, body .top-menu :visited {
   color: #ffffff;
-  float: right;
-  font-size: 26pt;
-  margin-right: 20px;
 }
 body .page-header {
   background-color: #ff9400;
@@ -37,7 +34,6 @@ body .post h1 a, body .post h1 a:visited {
 }
 body h1 {
   color: #FCA205;
-  font-family: "Lobster";
 }
 body h1 a {
   color: #FCA205;
